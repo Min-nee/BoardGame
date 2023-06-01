@@ -4,7 +4,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>석기만들기</title>
+	<title>석기만들기(Beta)</title>
 	<link rel="stylesheet" href="resources/css/home.css">
 </head>
 <body>
