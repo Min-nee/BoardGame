@@ -11,7 +11,9 @@
 	<div id = "setting">설정(톱니바퀴)</div> <!-- 좌측상단에 위치 -->
 	<div id = "title">석기 만들기</div> <!-- 타이틀 -->
 	<div id = "main_img">
-	img 넣을 곳 <!--이미지 넣기 -->
+	    <img class = "main_img"
+             src="/resources/image/main_img.png"
+             alt="Main Character Image">
 	</div>
 	
 	<div id = "start">시작</div> <!-- 페이지 이동 -->
